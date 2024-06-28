@@ -39,5 +39,8 @@ public class PersonApp {
         System.out.println(Pemanggilan3.name);
         System.out.println(Pemanggilan3.address);
         System.out.println(Pemanggilan3.country);
+
+
+
     }
 }
