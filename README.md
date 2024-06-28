@@ -16,6 +16,8 @@ Class Car :
 
 --Constructor 
 
+--Constructor overloading
+
 ***************************
 
 Objek Avanza :

@@ -8,16 +8,16 @@ class Person {
 
     //Constructor
     Person(String name, String address){
-        this.name = name;
+        this.name = name;  // memanggil Constructor dengan this
         this.address = address;
     }
 
-    //Constructor
+    //Constructor overloading
     Person(String paramName){
         this(paramName, null);
     }
 
-    //Constructor
+    //Constructor overloading
     Person(){
         this(null);
     }
