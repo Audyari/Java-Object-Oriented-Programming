@@ -5,13 +5,19 @@ Class dan Object dan Fields:
 Class Car :
 
 -- Artibut atau fields atau Properties name
--- Atribut brand
 
+-- Atribut brand.
+
+*************************
 
 --metode atau Function Start
+
 --metode atau Function Stop
+
+***************************
 
 Objek Avanza :
 
---Atribut namae
+--Atribut nama
+
 --atribute brand
