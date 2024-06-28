@@ -1,21 +1,6 @@
-// Subclass (Child Class)
 class Dog extends Animal {
-    private String breed;
-
-    public void panggilNama() {
-        System.out.println(this.name);
+    @Override
+    public void makeSound() {
+        System.out.println("The dog barks");
     }
-
-    public void bark() {
-        System.out.println("The dog is barking.");
-    }
-
-    public String getBreed() {
-        return this.breed;
-    }
-
-    public void setBreed(String breed) {
-        this.breed = breed;
-    }
-
 }
