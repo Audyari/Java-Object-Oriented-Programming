@@ -1,6 +1,6 @@
 class Person {
 
-    //Atribut
+    //-- Artibut atau fields atau Properties
     String name;
     String address;
     final String country = "Indonesia";
