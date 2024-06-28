@@ -14,6 +14,8 @@ Class Car :
 
 --metode atau Function Stop
 
+--Constructor 
+
 ***************************
 
 Objek Avanza :

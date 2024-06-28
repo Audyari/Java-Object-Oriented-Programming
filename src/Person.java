@@ -1,22 +1,23 @@
 class Person {
 
     //-- Artibut atau fields atau Properties
+
     String name;
     String address;
     final String country = "Indonesia";
 
-
+    //Constructor
     Person(String name, String address){
         this.name = name;
         this.address = address;
     }
 
-
+    //Constructor
     Person(String paramName){
         this(paramName, null);
     }
 
-
+    //Constructor
     Person(){
         this(null);
     }
