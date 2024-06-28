@@ -25,6 +25,9 @@ public class MyClass extends Object {
     }
 
     public static void main(String[] args) {
+
+        //Object adalah superclass untuk semua class yang ada di Java
+
         MyClass obj1 = new MyClass("John");
         MyClass obj2 = new MyClass("John");
 
