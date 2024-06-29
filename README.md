@@ -25,3 +25,9 @@ Objek Avanza :
 --Atribut nama
 
 --atribute brand
+
+===============================
+
+https://github.com/ProgrammerZamanNow/belajar-java-oop
+
+==================================
