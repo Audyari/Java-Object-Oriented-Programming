@@ -1,0 +1,5 @@
+class Makanan{
+   
+    String Data;
+
+}
