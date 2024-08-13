@@ -19,7 +19,10 @@ public class Object {
         System.out.println(testObjek.Data);
 
 
+       
         
 
     }
+
+    
 }

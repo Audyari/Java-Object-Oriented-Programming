@@ -6,6 +6,9 @@ public class testSUper {
 
         System.out.println(testObjek);
 
-        testObjek.sayHello();
+        
+
+        System.out.println(testObjek.toString());
+        System.out.println(testObjek);
     }
 }
